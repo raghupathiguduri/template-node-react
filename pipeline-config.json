@@ -1,0 +1,8 @@
+{
+    "appName": "react-app",
+    "helmChartPath": "",
+    "registry": "docker.io",
+    "repo": "raghukanna",
+    "imageName": "test-2",
+    "version": "2.0"
+}
